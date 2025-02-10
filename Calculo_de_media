@@ -1,5 +1,7 @@
 Algoritimo Calculo_de_media
 Variaveis:
-  numero
+  inteiro: num1
+  inteiro: num2
+  inteiro: media
 Inicio
 Fim
