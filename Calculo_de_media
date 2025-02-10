@@ -4,4 +4,15 @@ Variaveis:
   inteiro: num2
   inteiro: media
 Inicio
+  // entrada
+  Escreval("Digite um número")
+  Leia(num1)
+  Escreval("Digite..")
+  Leia(num2)
+  // Processamento
+  media <- (num1 + num2)/2
+  Saida
+  Escreva(Média)
 Fim
+
+Entrada - processamento - Saída
